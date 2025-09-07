@@ -1,0 +1,176 @@
+,country,adm0_a3,tea_word_origin
+0,Afghanistan,AFG,cha
+1,Albania,ALB,cha
+2,Algeria,DZA,cha
+3,Angola,AGO,cha
+4,Antarctica,ATA,insufficient data
+5,Argentina,ARG,te
+6,Armenia,ARM,te
+7,Australia,AUS,te
+8,Austria,AUT,te
+9,Azerbaijan,AZE,cha
+10,Bahamas (the),BHS,te
+11,Bangladesh,BGD,cha
+12,Belarus,BLR,cha
+13,Belgium,BEL,te
+14,Belize,BLZ,te
+15,Benin,BEN,te
+16,Bhutan,BTN,cha
+17,Bolivia (Plurinational State of),BOL,te
+18,Bosnia and Herzegovina,BIH,cha
+19,Botswana,BWA,te
+20,Brazil,BRA,cha
+21,Brunei Darussalam,BRN,te
+22,Bulgaria,BGR,cha
+23,Burkina Faso,BFA,te
+24,Burundi,BDI,te
+25,Cambodia,KHM,te
+26,Cameroon,CMR,te
+27,Canada,CAN,te
+28,Central African Republic (the),CAF,te
+29,Chad,TCD,cha
+30,Chile,CHL,te
+31,China,CHN,cha
+32,Colombia,COL,te
+33,Congo (DCR),COD,te
+34,Congo Republic,COG,te
+35,Costa Rica,CRI,te
+36,Croatia,HRV,cha
+37,Cuba,CUB,te
+38,Cyprus,CYP,cha
+39,Cyprus North,CYN,cha
+40,Czech Republic,CZE,cha
+41,Denmark,DNK,te
+42,Djibouti,DJI,cha
+43,Dominican Republic (the),DOM,te
+44,Ecuador,ECU,te
+45,Egypt,EGY,cha
+46,El Salvador,SLV,te
+47,Equatorial Guinea,GNQ,te
+48,Eritrea,ERI,cha
+49,Estonia,EST,te
+50,Eswatini,SWZ,te
+51,Ethiopia,ETH,cha
+52,Falkland Islands (the) [Malvinas],FLK,te
+53,Fiji,FJI,te
+54,Finland,FIN,te
+55,France,FRA,te
+56,French Southern Territories (the),ATF,te
+57,Gabon,GAB,te
+58,Gambia (the),GMB,te
+59,Georgia,GEO,cha
+60,Germany,DEU,te
+61,Ghana,GHA,te
+62,Greece,GRC,cha
+63,Greenland,GRL,te
+64,Guatemala,GTM,te
+65,Guinea,GIN,te
+66,Guinea-Bissau,GNB,cha
+67,Guyana,GUY,te
+68,Haiti,HTI,te
+69,Honduras,HND,te
+70,Hungary,HUN,te
+71,Iceland,ISL,te
+72,India,IND,cha
+73,Indonesia,IDN,te
+74,Iran (Islamic Republic of),IRN,cha
+75,Iraq,IRQ,cha
+76,Ireland,IRL,te
+77,Israel,ISR,te
+78,Italy,ITA,te
+79,Ivory Coast,CIV,te
+80,Jamaica,JAM,te
+81,Japan,JPN,cha
+82,Jordan,JOR,cha
+83,Kazakhstan,KAZ,cha
+84,Kenya,KEN,cha
+85,Korea North,PRK,cha
+86,Korea South,KOR,cha
+87,Kosovo,KOS,te
+88,Kuwait,KWT,cha
+89,Kyrgyzstan,KGZ,cha
+90,Lao People's Democratic Republic (the),LAO,others
+91,Latvia,LVA,te
+92,Lebanon,LBN,cha
+93,Lesotho,LSO,te
+94,Liberia,LBR,te
+95,Libya,LBY,cha
+96,Lithuania,LTU,te
+97,Luxembourg,LUX,te
+98,Madagascar,MDG,te
+99,Malawi,MWI,te
+100,Malaysia,MYS,te
+101,Mali,MLI,te
+102,Mauritania,MRT,cha
+103,Mexico,MEX,te
+104,Moldova (the Republic of),MDA,cha
+105,Mongolia,MNG,cha
+106,Montenegro,MNE,cha
+107,Morocco,MAR,cha
+108,Mozambique,MOZ,cha
+109,Myanmar,MMR,others
+110,Namibia,NAM,te
+111,Nepal,NPL,cha
+112,Netherlands (the),NLD,te
+113,New Caledonia,NCL,te
+114,New Zealand,NZL,te
+115,Nicaragua,NIC,te
+116,Niger (the),NER,te
+117,Nigeria,NGA,te
+118,North Macedonia Republic,MKD,cha
+119,Norway,NOR,te
+120,Oman,OMN,cha
+121,Pakistan,PAK,cha
+122,Panama,PAN,te
+123,Papua New Guinea,PNG,te
+124,Paraguay,PRY,te
+125,Peru,PER,te
+126,Philippines (the),PHL,cha
+127,Poland,POL,te
+128,Portugal,PRT,cha
+129,Puerto Rico,PRI,te
+130,Qatar,QAT,cha
+131,Romania,ROU,cha
+132,Russian Federation (the),RUS,cha
+133,Rwanda,RWA,te
+134,Saudi Arabia,SAU,cha
+135,Senegal,SEN,te
+136,Serbia,SRB,cha
+137,Sierra Leone,SLE,te
+138,Slovakia,SVK,cha
+139,Slovenia,SVN,cha
+140,Solomon Islands,SLB,te
+141,Somalia,SOM,cha
+142,Somaliland,SOL,cha
+143,South Africa,ZAF,te
+144,Spain,ESP,te
+145,Sri Lanka,LKA,te
+146,Sudan (the),SDN,cha
+147,Suriname,SUR,te
+148,Sweden,SWE,te
+149,Switzerland,CHE,te
+150,Syria,SYR,cha
+151,Taiwan (Province of China),TWN,cha
+152,Tajikistan,TJK,cha
+153,"Tanzania, United Republic of",TZA,cha
+154,Thailand,THA,cha
+155,Timor-Leste,TLS,cha
+156,Togo,TGO,te
+157,Trinidad and Tobago,TTO,te
+158,Tunisia,TUN,cha
+159,Turkey,TUR,cha
+160,Turkmenistan,TKM,cha
+161,Uganda,UGA,cha
+162,Ukraine,UKR,cha
+163,United Arab Emirates (the),ARE,cha
+164,United Kindom,GBR,te
+165,United States of America (the),USA,te
+166,Uruguay,URY,te
+167,Uzbekistan,UZB,cha
+168,Vanuatu,VUT,te
+169,Venezuela (Bolivarian Republic of),VEN,te
+170,Vietnam,VNM,cha
+171,Western Sahara,SAH,cha
+172,Yemen,YEM,cha
+173,Zambia,ZMB,te
+174,Zimbabwe,ZWE,cha

@@ -1,0 +1,176 @@
+country,adm0_a3,tea_word_origin
+Afghanistan,AFG,insufficient data
+Albania,ALB,cha
+Algeria,DZA,insufficient data
+Angola,AGO,cha
+Antarctica,ATA,insufficient data
+Argentina,ARG,te
+Armenia,ARM,insufficient data
+Australia,AUS,te
+Austria,AUT,insufficient data
+Azerbaijan,AZE,cha
+Bahamas (the),BHS,te
+Bangladesh,BGD,insufficient data
+Belarus,BLR,insufficient data
+Belgium,BEL,te
+Belize,BLZ,te
+Benin,BEN,te
+Bhutan,BTN,insufficient data
+Bolivia (Plurinational State of),BOL,insufficient data
+Bosnia and Herzegovina,BIH,insufficient data
+Botswana,BWA,te
+Brazil,BRA,cha
+Brunei Darussalam,BRN,insufficient data
+Bulgaria,BGR,cha
+Burkina Faso,BFA,te
+Burundi,BDI,te
+Cambodia,KHM,te
+Cameroon,CMR,te
+Canada,CAN,te
+Central African Republic (the),CAF,te
+Chad,TCD,insufficient data
+Chile,CHL,te
+China,CHN,cha
+Colombia,COL,te
+Congo (DCR),COD,te
+Congo Republic,COG,te
+Costa Rica,CRI,te
+Croatia,HRV,insufficient data
+Cuba,CUB,te
+Cyprus,CYP,insufficient data
+Cyprus North,CYN,insufficient data
+Czech Republic,CZE,cha
+Denmark,DNK,te
+Djibouti,DJI,insufficient data
+Dominican Republic (the),DOM,te
+Ecuador,ECU,te
+Egypt,EGY,insufficient data
+El Salvador,SLV,te
+Equatorial Guinea,GNQ,te
+Eritrea,ERI,insufficient data
+Estonia,EST,te
+Eswatini,SWZ,insufficient data
+Ethiopia,ETH,insufficient data
+Falkland Islands (the) [Malvinas],FLK,te
+Fiji,FJI,insufficient data
+Finland,FIN,te
+France,FRA,te
+French Southern Territories (the),ATF,te
+Gabon,GAB,te
+Gambia (the),GMB,te
+Georgia,GEO,cha
+Germany,DEU,te
+Ghana,GHA,insufficient data
+Greece,GRC,insufficient data
+Greenland,GRL,insufficient data
+Guatemala,GTM,te
+Guinea,GIN,te
+Guinea-Bissau,GNB,cha
+Guyana,GUY,te
+Haiti,HTI,insufficient data
+Honduras,HND,te
+Hungary,HUN,te
+Iceland,ISL,te
+India,IND,cha
+Indonesia,IDN,insufficient data
+Iran (Islamic Republic of),IRN,insufficient data
+Iraq,IRQ,insufficient data
+Ireland,IRL,te
+Israel,ISR,insufficient data
+Italy,ITA,te
+Ivory Coast,CIV,te
+Jamaica,JAM,te
+Japan,JPN,cha
+Jordan,JOR,insufficient data
+Kazakhstan,KAZ,cha
+Kenya,KEN,insufficient data
+Korea North,PRK,cha
+Korea South,KOR,cha
+Kosovo,KOS,insufficient data
+Kuwait,KWT,insufficient data
+Kyrgyzstan,KGZ,insufficient data
+Lao People's Democratic Republic (the),LAO,others
+Latvia,LVA,te
+Lebanon,LBN,insufficient data
+Lesotho,LSO,te
+Liberia,LBR,te
+Libya,LBY,insufficient data
+Lithuania,LTU,others
+Luxembourg,LUX,te
+Madagascar,MDG,te
+Malawi,MWI,te
+Malaysia,MYS,insufficient data
+Mali,MLI,te
+Mauritania,MRT,insufficient data
+Mexico,MEX,te
+Moldova (the Republic of),MDA,insufficient data
+Mongolia,MNG,insufficient data
+Montenegro,MNE,insufficient data
+Morocco,MAR,insufficient data
+Mozambique,MOZ,cha
+Myanmar,MMR,others
+Namibia,NAM,te
+Nepal,NPL,cha
+Netherlands (the),NLD,te
+New Caledonia,NCL,te
+New Zealand,NZL,te
+Nicaragua,NIC,te
+Niger (the),NER,te
+Nigeria,NGA,te
+North Macedonia Republic,MKD,insufficient data
+Norway,NOR,te
+Oman,OMN,insufficient data
+Pakistan,PAK,insufficient data
+Panama,PAN,te
+Papua New Guinea,PNG,insufficient data
+Paraguay,PRY,insufficient data
+Peru,PER,insufficient data
+Philippines (the),PHL,insufficient data
+Poland,POL,others
+Portugal,PRT,insufficient data
+Puerto Rico,PRI,te
+Qatar,QAT,insufficient data
+Romania,ROU,insufficient data
+Russian Federation (the),RUS,cha
+Rwanda,RWA,te
+Saudi Arabia,SAU,insufficient data
+Senegal,SEN,te
+Serbia,SRB,insufficient data
+Sierra Leone,SLE,te
+Slovakia,SVK,cha
+Slovenia,SVN,cha
+Solomon Islands,SLB,te
+Somalia,SOM,insufficient data
+Somaliland,SOL,insufficient data
+South Africa,ZAF,insufficient data
+Spain,ESP,te
+Sri Lanka,LKA,insufficient data
+Sudan (the),SDN,insufficient data
+Suriname,SUR,te
+Sweden,SWE,te
+Switzerland,CHE,te
+Syria,SYR,insufficient data
+Taiwan (Province of China),TWN,cha
+Tajikistan,TJK,cha
+"Tanzania, United Republic of",TZA,insufficient data
+Thailand,THA,cha
+Timor-Leste,TLS,insufficient data
+Togo,TGO,te
+Trinidad and Tobago,TTO,te
+Tunisia,TUN,insufficient data
+Turkey,TUR,cha
+Turkmenistan,TKM,cha
+Uganda,UGA,insufficient data
+Ukraine,UKR,cha
+United Arab Emirates (the),ARE,insufficient data
+United Kindom,GBR,te
+United States of America (the),USA,te
+Uruguay,URY,te
+Uzbekistan,UZB,cha
+Vanuatu,VUT,te
+Venezuela (Bolivarian Republic of),VEN,te
+Vietnam,VNM,cha
+Western Sahara,SAH,insufficient data
+Yemen,YEM,insufficient data
+Zambia,ZMB,te
+Zimbabwe,ZWE,insufficient data
